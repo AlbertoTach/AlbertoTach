@@ -23,7 +23,7 @@
 
 <h3 align="center">🛠️ Minhas Ferramentas</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,react,nextjs,mongodb,docker,git,linux,AWS,mysql&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,react,nextjs,mongodb,docker,git,linux&perline=10" />
 </div>
 
 <br/>

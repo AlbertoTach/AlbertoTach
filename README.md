@@ -28,12 +28,9 @@
 
 <br/>
 
-<h3 align="center">📊 Minha Produtividade</h3>
+<h3 align="center">📊 Métricas do Alberto</h3>
 <div align="center">
-  <a href="https://github.com/AlbertoTach/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoTach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoTach&layout=compact&theme=tokyonight"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertoTach&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>

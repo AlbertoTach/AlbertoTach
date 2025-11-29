@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Olá,%20Mundo!&fontSize=70&fontAlign=50&animation=twinkling" width="100%"/>
+</div>
 
-<!--
-**AlbertoTach/AlbertoTach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>👨‍💻 Desenvolvedor Full Stack | Entusiasta de IA</h3>
+  <p>
+    Sou apaixonado por transformar café em código e ideias em realidade. <br/>
+    Foco em criar aplicações escaláveis e interfaces intuitivas.
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+- 🔭 Atualmente trabalhando em um **SaaS para Gestão**
+- 🌱 Estudando profundamente **Arquitetura de Microsserviços**
+- 💬 Pergunte-me sobre **Python, JavaScript e Automação**
+- ⚡ Curiosidade: *Eu programo melhor ouvindo Lo-Fi.*
+
+<br/>
+
+<h3 align="center">🛠️ Minhas Ferramentas</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,nextjs,postgres,mongodb,docker,git,linux&perline=10" />
+</div>
+
+<br/>
+
+<h3 align="center">📊 Minha Produtividade</h3>
+<div align="center">
+  <a href="https://github.com/AlbertoTach/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoTach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoTach&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alberto-santana-a94203229/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="mailto:beto.albertosantanabeto@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
